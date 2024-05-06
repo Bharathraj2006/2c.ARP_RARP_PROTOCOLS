@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## Register no: 212223230031
 ## Name : P.Bharathraj
+## Register no: 212223230031
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
@@ -46,7 +46,8 @@ while True:
 ```
 ## OUPUT - ARP
 ### Server:
-![Screenshot 2024-04-14 154346](https://github.com/Bharathraj2006/2c.ARP_RARP_PROTOCOLS/assets/152376845/c0b4dfd6-d6fc-4484-acfc-8bdba7c5a360)
+![image](https://github.com/Bharathraj2006/2c.ARP_RARP_PROTOCOLS/assets/152376845/b2e43b8a-feb3-45ad-9eeb-9ddfe3947a04)
+
 
 ## PROGRAM - RARP
 ### Client:
@@ -75,7 +76,8 @@ while True:
     print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT -RARP
-![Screenshot 2024-04-14 154800](https://github.com/Bharathraj2006/2c.ARP_RARP_PROTOCOLS/assets/152376845/c7ee932a-a783-405e-9946-da6c054f5561)
+![image](https://github.com/Bharathraj2006/2c.ARP_RARP_PROTOCOLS/assets/152376845/dcc959b7-0d86-4416-8f45-2ce9b3e661b3)
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
